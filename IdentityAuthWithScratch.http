@@ -1,0 +1,6 @@
+@IdentityAuthWithScratch_HostAddress = http://localhost:5231
+
+GET {{IdentityAuthWithScratch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
